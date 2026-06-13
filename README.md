@@ -238,3 +238,9 @@ O modelo implementado foi inspirado em estudos sobre gerenciamento térmico e ef
 ## Licença
 
 Este projeto é disponibilizado para fins acadêmicos e educacionais.
+
+
+## Relatório + Artigo
+[Relatório Individual Artigo.pdf](https://github.com/user-attachments/files/28918618/Relatorio.Individual.Artigo.pdf)  
+[Artigo-MiguelTojal.docx.pdf](https://github.com/user-attachments/files/28918619/Artigo-MiguelTojal.docx.pdf)  
+
