@@ -40,7 +40,7 @@ O projeto implementa um modelo de tomada de decisão para gerenciamento de carga
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/hpc-thermal-monitor.git
+git clone https://github.com/mtojald/ArtigoC.git
 cd hpc-thermal-monitor
 ```
 
